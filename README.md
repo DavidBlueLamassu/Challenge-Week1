@@ -20,6 +20,6 @@ N/A
 
 N/A
 
-## https://davidbluelamassu.github.io/Challenge-Week1/
+## https://davidbluelamassu.github.io/Horiseon-Homepage/
 
 ![Screenshot of Horiseon Homepage](./assets/images/horiseon-homepage-screenshot.png)
